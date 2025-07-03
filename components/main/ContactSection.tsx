@@ -91,11 +91,11 @@ const ContactSection = () => {
               className="flex flex-wrap gap-4"
             >
               <div className="bg-gray-800/50 backdrop-blur-sm border border-gray-700 rounded-lg px-6 py-3">
-                <span className="text-purple-400 font-semibold">5+</span>
+                <span className="text-purple-400 font-semibold">2+</span>
                 <span className="text-gray-300 ml-2">Years Experience</span>
               </div>
               <div className="bg-gray-800/50 backdrop-blur-sm border border-gray-700 rounded-lg px-6 py-3">
-                <span className="text-cyan-400 font-semibold">50+</span>
+                <span className="text-cyan-400 font-semibold">5+</span>
                 <span className="text-gray-300 ml-2">Projects Completed</span>
               </div>
               <div className="bg-gray-800/50 backdrop-blur-sm border border-gray-700 rounded-lg px-6 py-3">
